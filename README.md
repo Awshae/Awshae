@@ -9,7 +9,7 @@ I'm Asher , A Robotics and Artificial Intelligence Engineering Undergraduate at 
 ![](https://nirzak-streak-stats.vercel.app/?user=Awshae&theme=calm_pink&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awshae&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 📚 Qoute of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<### 📚 Qoute of the Day>
+<![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
