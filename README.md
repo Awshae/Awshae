@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 About Me:
-I'm Asher , A Robotics and Artificial Intelligence Undergraduate at NMAM Institute of Technology, Nitte.<br>On the Software side of things I'm working on an "AQI Predictor" and an "AI-Generated Face Detector" .<br>A maze solving robot and a basketball Playing robot are being worked upon on the hardware side of things.<br> In retrospect, I Also love graphic Design and Illustrating.
+I'm Asher , A Robotics and Artificial Intelligence Engineering Undergraduate at NMAM Institute of Technology, Nitte.<br>On the Software side of things I'm working on an "AQI Predictor" and an "AI-Generated Face Detector" .<br>A maze solving robot and a basketball Playing robot are being worked upon on the hardware side of things.<br> In retrospect, I Also love graphic Design and Illustrating.
 
 
 # 💻 Tech Stack:
