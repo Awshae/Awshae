@@ -64,6 +64,7 @@ Beyond code and circuits, I thrive in the world of **graphic design & illustrati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Procreate_icon.png" height="60">
 </p>
 
 ### 🔧 **Other Tools & Platforms**  
