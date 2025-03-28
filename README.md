@@ -14,7 +14,7 @@
 
 ### 🔬 **Software Projects**  
 🚀 **AQI Predictor** – Harnessing deep learning to analyze air quality.  
-🤖 **AI-Generated Face Detector** – Detecting AI-generated faces with smart algorithms.  
+🤖 **AI-Generated Image Detector** – Detecting AI-generated Images with smart algorithms.  
 
 ### ⚙️ **Hardware Projects**  
 🧩 **Maze-Solving Robot** – Bringing autonomous navigation to life.  
