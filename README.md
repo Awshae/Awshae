@@ -63,7 +63,7 @@
 
 **🔹 Robotics & AI Engineering Undergraduate** | **💡 Innovator** | **🎨 Designer**  
 
-![Header](https://source.unsplash.com/1600x400/?technology,robotics)  
+<!--![Header](https://source.unsplash.com/1600x400/?technology,robotics)  -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&width=500&lines=Welcome+to+my+GitHub!;Robotics+%7C+AI+%7C+Design;Always+learning%2C+always+building!" alt="Typing Animation" />
@@ -133,7 +133,6 @@ Beyond code and circuits, I thrive in the world of **graphic design & illustrati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60">
 </p>
 
----
 
 <!-- 📊 GitHub Stats  
 Uncomment the below if you want to use stats -->  
