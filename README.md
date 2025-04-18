@@ -13,19 +13,20 @@
 ## 🛠️ What I'm Building  
 
 ### 🔬 **Software Projects**  
-🚀 **AQI Predictor** – Harnessing deep learning to analyze air quality.  
+🚀 **AQI Predictor website**   - Website predicting AQI for next few days
 🤖 **AI-Generated Image Detector** – Detecting AI-generated Images with smart algorithms.  
 
 ### ⚙️ **Hardware Projects**  
 🧩 **Maze-Solving Robot** – Bringing autonomous navigation to life.  
-🏀 **Basketball-Playing Robot** – Merging mechanics with machine intelligence.  
+🏀 **Basketball-Playing Robot** – Merging mechanics with machine intelligence. 
+🛫 **Fire Fighting Hybrid UAV** - Final Year project
 
 ---
 
 ## 📖 What I'm Exploring  
 
-📌 **Git & Version Control** – Strengthening my workflow with best practices.  
-📌 **JavaScript & Electron** – Crafting dynamic web applications.  
+📌 **OS and Networking**   
+📌 **JavaScript & Electron** 
 
 ---
 
