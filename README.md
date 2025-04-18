@@ -2,7 +2,7 @@
 
 **🔹 Robotics & AI Engineering Undergraduate** | **💡 Innovator** | **🎨 Designer**  
 <br>
-<!--![Header](https://source.unsplash.com/1600x400/?technology,robotics)  -->
+<!--![Header](https://source.unsplash.com/1600x400/?technology,robotics) -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&width=500&lines=Welcome+to+my+GitHub!;Robotics+%7C+AI+%7C+Design;" alt="Typing Animation" />
@@ -32,7 +32,7 @@
 
 ## 🎨 Beyond Engineering  
 
-Beyond code and circuits, I thrive in the world of **graphic design & illustration**—where creativity meets logic!  
+Beyond code and circuits, I thrive in the world of **graphic design & illustration** 
 
 ---
 
@@ -71,6 +71,8 @@ Beyond code and circuits, I thrive in the world of **graphic design & illustrati
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60">
 </p>
 
 ---
