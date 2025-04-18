@@ -73,23 +73,17 @@ Beyond code and circuits, I thrive in the world of **graphic design & illustrati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60">
 </p>
 
+---
 
-<!-- 📊 GitHub Stats  
-Uncomment the below if you want to use stats -->  
-<!--  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awshae&theme=radical&hide_border=true)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Awshae&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awshae&theme=radical&hide_border=true&layout=compact)  
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Awshae&style=for-the-badge&label=👁️+Visitors&color=F97316" alt="profile views"/>
+</p>
 
 ---
 
 ### 📚 **Quote of the Day**  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Awshae&style=flat-square&color=F7B93E)
 
 ---
 
