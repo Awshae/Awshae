@@ -13,13 +13,13 @@
 ## 🛠️ What I'm Building  
 
 ### 🔬 **Software Projects**  
-🚀 **AQI Predictor website**   - Website predicting AQI for next few days
+🚀 **AQI Predictor website**   - Website predicting AQI for next few days. <br>
 🤖 **AI-Generated Image Detector** – Detecting AI-generated Images with smart algorithms.  
 
 ### ⚙️ **Hardware Projects**  
 🧩 **Maze-Solving Robot** – Bringing autonomous navigation to life.  
-🏀 **Basketball-Playing Robot** – Merging mechanics with machine intelligence. 
-🛫 **Fire Fighting Hybrid UAV** - Final Year project
+🏀 **Basketball-Playing Robot** – Merging mechanics with machine intelligence. <br>
+🛫 **Fire Fighting Hybrid UAV** - Final Year project.
 
 ---
 
