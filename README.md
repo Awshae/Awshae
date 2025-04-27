@@ -25,8 +25,8 @@
 
 ## 📖 What I'm Exploring  
 
-📌 **OS and Networking**   
-📌 **JavaScript & Electron** 
+📌 **JAX and FLAX**   
+📌 **JavaScript** 
 
 ---
 
