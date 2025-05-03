@@ -13,7 +13,7 @@
 ## 🛠️ What I'm Building  
 
 ### 🔬 **Software Projects**  
-🚀 **AQI Predictor website**   - Website predicting AQI for next few days. <br>
+🚀 **Portfolio website**    <br>
 🤖 **AI-Generated Image Detector** – Detecting AI-generated Images with smart algorithms.  
 
 ### ⚙️ **Hardware Projects**  
