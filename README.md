@@ -24,8 +24,8 @@
 
 ## 📖 What I'm Exploring  
 
-📌 **JAX and FLAX**
-📌 **Gen AI** 
+📌 **JAX and FLAX** <br>
+📌 **Gen AI** <br>
 📌 **JavaScript** 
 
 ---
