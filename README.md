@@ -18,21 +18,21 @@
 
 ### ⚙️ **Hardware Projects**  
 🧩 **Maze-Solving Robot** – Bringing autonomous navigation to life.  
-🏀 **Basketball-Playing Robot** – Merging mechanics with machine intelligence. <br>
-🛫 **Fire Fighting Hybrid UAV** - Final Year project.
+🛫 **Fire Fighting Hybrid UAV** - For my Final Year project.
 
 ---
 
 ## 📖 What I'm Exploring  
 
-📌 **JAX and FLAX**   
+📌 **JAX and FLAX**
+📌 **Gen AI** 
 📌 **JavaScript** 
 
 ---
 
 ## 🎨 Beyond Engineering  
 
-Beyond code and circuits, I thrive in the world of **graphic design & illustration** 
+Beyond code and circuits, I thrive in the world of **graphic design & illustration**. I also play the guitar occasionally! 
 
 ---
 
