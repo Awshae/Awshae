@@ -92,7 +92,7 @@ Beyond engineering, I have experience in **graphic design and illustration**. I 
 ## Connect With Me
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/asherjarvispinto/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Asher%20[YourLastName]-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a> &nbsp;
+  <a href="[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/asherjarvispinto/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Asher%20Pinto-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a> &nbsp;
   <a href="mailto:asjpint@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-lightgrey?style=flat-square&logo=gmail" alt="Email"/></a>
   </p>
 
