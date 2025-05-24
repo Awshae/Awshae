@@ -45,6 +45,8 @@ Beyond code and circuits, I thrive in the world of **graphic design & illustrati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/html-original.svg" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/css-original.svg" height="60">
 </p>
 
 ### 📊 **Data Science & Visualization**  
