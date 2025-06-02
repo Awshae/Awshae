@@ -28,9 +28,8 @@
 
 ## What I'm Learning
 
-* **JAX and FLAX:** Exploring these frameworks for high-performance numerical computing and machine learning research.
-* **Generative AI:** Exploring advancements and applications in generative artificial intelligence.
-* * **Power BI:** Expanding my Data Analysis skills.
+* **Docker and Kubernetes**
+* **Power BI**
 
 ---
 
