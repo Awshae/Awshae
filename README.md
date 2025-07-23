@@ -126,3 +126,7 @@ In addition to engineering, I have a strong interest in graphic design, illustra
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Awshae&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
 </p>
+
+---
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Awshae/langs)](https://githubtrends.io)
