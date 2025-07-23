@@ -128,5 +128,3 @@ In addition to engineering, I have a strong interest in graphic design, illustra
 </p>
 
 ---
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Awshae/langs)](https://githubtrends.io)
