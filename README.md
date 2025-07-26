@@ -78,7 +78,6 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   <img src="https://img.shields.io/badge/Roboflow-222222?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow"/>
   <img src="https://img.shields.io/badge/HuggingFace-FCC436?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=wandb&logoColor=black" alt="Weights & Biases"/>
 </p>
 
 ---
