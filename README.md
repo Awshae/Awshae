@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3670A9&center=true&width=435&lines=Robotics+%7C+AI+%7C+Design;Software+Development;Hardware+Prototyping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3670A9&center=true&width=435&lines=Robotics+%7C+AI+%7C+Design;Machine+Learning;Hardware+Prototyping;Researching" alt="Typing SVG" />
 </p>
 
 ---
