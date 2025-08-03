@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://awshae.github.io/Asher/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
