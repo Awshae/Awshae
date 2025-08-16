@@ -35,7 +35,7 @@
 ## Learning Focus
 
 - Docker and Kubernetes  
-- Power BI for data visualization
+- ROS
 
 ---
 
